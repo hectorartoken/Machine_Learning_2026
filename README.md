@@ -1,4 +1,5 @@
 # Machine_Learning_2026
+<!-- Test commit to verify GitHub account configuration -->
 
 Repositorio donde se almacenará las actividades de la materia de Machine Learning dentro de la maestría en ciencias de las computación en la Universidad Autónoma de Yucatán (UADY).
 
