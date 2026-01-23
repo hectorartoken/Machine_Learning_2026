@@ -21,6 +21,3 @@ source venv/Scripts/activate  # En Windows use: .\venv\Scripts\activate
 # Instalación de dependencias
 pip install -r requirements.txt
 ```
-
-## 📜 Licencia
-Este proyecto está bajo la Licencia MIT - vea el archivo [LICENSE](LICENSE) para detalles.
